@@ -18,3 +18,5 @@ This project showcases the creation of an interactive dashboard in Tableau, insp
 - Enhance skills in interactive data visualization and storytelling.
 
 Dashboard: https://public.tableau.com/app/profile/sanjana.gowda.hetthur.chandrashekar/viz/PrimeVideodashboard_17255987723790/Dashboard1
+
+<img width="1122" alt="image" src="https://github.com/user-attachments/assets/ed17eccf-4b29-4de5-8bd9-29a7a3be20d7">
