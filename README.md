@@ -4,10 +4,12 @@ Overview:
 This project showcases the creation of an interactive dashboard in Tableau, inspired by the tutorial from https://www.youtube.com/watch?v=ZFndp6d47uo. The dashboard visualizes key metrics related to Amazon Prime Video data, providing insights into viewer behavior and content performance.
 
 Key Features:
+
 Interactive Visualizations: Utilizes Tableau to create dynamic charts and graphs for exploring Amazon Prime Video metrics.
 Dashboard Components: Includes features such as filters, slicers, and detailed views to interactively analyze data.
 Data Insights: Offers insights into viewer trends, content popularity, and performance metrics.
-Tech Stack
+
+Tech Stack:
 
 Tool: Tableau
 Data Source: Amazon Prime Video dataset (kaggle)
