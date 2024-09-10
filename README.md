@@ -13,6 +13,8 @@ Tool: Tableau
 Data Source: Amazon Prime Video dataset (kaggle)
 
 Objectives:
-> Learn and apply dashboard creation techniques in Tableau.
-> Visualize and analyze Amazon Prime Video data to derive actionable insights.
-> Enhance skills in interactive data visualization and storytelling.
+Learn and apply dashboard creation techniques in Tableau.
+Visualize and analyze Amazon Prime Video data to derive actionable insights.
+Enhance skills in interactive data visualization and storytelling.
+
+Dashboard: https://public.tableau.com/app/profile/sanjana.gowda.hetthur.chandrashekar/viz/PrimeVideodashboard_17255987723790/Dashboard1
